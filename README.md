@@ -1,4 +1,4 @@
- Salve rapaziada, eu sou o Guilherme da Turma 1-53
+# Salve rapaziada, eu sou o Guilherme da Turma 1-53
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegn&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
