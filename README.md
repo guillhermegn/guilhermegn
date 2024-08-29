@@ -1,4 +1,7 @@
 # Salve rapaziada, eu sou o Guilherme da Turma 1-53
+
+- aluno do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 💻 Perfil destinado às minhas aulas de Linguagem de Programação, Lógica de Programação e Banco de Dados.
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegn&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
